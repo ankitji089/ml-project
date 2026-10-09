@@ -1,0 +1,7 @@
+prefix=/mnt/d/ml_project/venv311
+includedir=${prefix}/include
+
+Name: ResourceProto
+Description: Resource extension headers
+Version: 1.2.0
+Cflags: -I${includedir}

@@ -1,0 +1,7 @@
+prefix=/mnt/d/ml_project/venv311
+includedir=${prefix}/include
+
+Name: XExtProto
+Description: XExt extension headers
+Version: 7.3.0
+Cflags: -I${includedir}
