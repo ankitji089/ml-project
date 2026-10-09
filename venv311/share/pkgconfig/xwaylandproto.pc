@@ -1,7 +1,0 @@
-prefix=/mnt/d/ml_project/venv311
-includedir=${prefix}/include
-
-Name: XwaylandProto
-Description: Xwayland extension headers
-Version: 1.0
-Cflags: -I${includedir}
